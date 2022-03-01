@@ -1,6 +1,10 @@
-
+.omg{
+    max-width: 100%;
+    max-height: 100%;
+}
 .omg > img{
-    clip-path: circle(34%);
+    clip-path: circle(36%);
+    width: 330px;
 }
 .hello{
     background-color: white;
